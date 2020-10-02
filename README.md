@@ -1,5 +1,5 @@
 # CU Aroma
-CUAroma is an android application which is designed using Android Studio. There are two applications one for the client and one for the vendor. The vendor application uses a simple user Interface to add food item to menu and to view the orders which have been received and in the same way the client application has an interface in which aclient can sign in and view the menu and then finally place the order. Both the application shares the same Database. Before using the application, the user needs to authenticate himself/herself using email-id and password and further access the features of the application.
+CUAroma is an android application which is designed using Android Studio. There are two applications one for the client and one for the vendor. The vendor application uses a simple user Interface to add food item to menu and to view the orders which have been received and in the same way the client application has an interface in which a client can sign in and view the menu and then finally place the order. Both the application shares the same Database. Before using the application, the user needs to authenticate himself/herself using email-id and password and further access the features of the application.
 It basically is designed to remove the system of pamphlet and paper menus so that the technology in the campus as being an engineering college goes to the next level where there is the concept of digitization and cashless shopping. Students in the University will be able to order food from where they are. They need not stand in long queues to wait for their order and the rush during the meal hours will be minimized a lot.
 
 # Below are the classes of CUAroma explained in detail –
@@ -59,4 +59,4 @@ provided by the Firebase Auth object and in the same way the user can login into
 
 3) FIREBASE STORAGE - Firebase storage provides secure file uploads and downloads for firebase apps, regardless of network quality. Here this database is used to upload the item in the vendor application and this same uploaded item is visible in a proper list view to the users.
 
--------------------------------------------------------------THANKYOU-----------------------------------------------------------
+-------------------------------------------------------------THANKYOU--------------------------------------------------------
